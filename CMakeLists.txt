@@ -5,4 +5,5 @@ set(CXX_STANDARD_REQUIRED ON)
 SET(CMAKE_CXX_FLAGS_DEBUG "-g")
 
 add_subdirectory(CompilerPrintType)
+add_subdirectory(Lambda)
 add_subdirectory(TypeId)
