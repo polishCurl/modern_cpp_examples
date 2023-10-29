@@ -1,0 +1,1 @@
+add_executable(compiler_print_type compiler_print_type.cpp)

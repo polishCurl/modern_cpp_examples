@@ -1,0 +1,1 @@
+Using class template without definition for printing type information at compile time.
