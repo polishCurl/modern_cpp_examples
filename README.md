@@ -8,3 +8,4 @@ This project also demonstrates minimal usage of cmake for building c++ projects.
 2. Using class template without definition for printing type information at compile time.
 3. Compare the memory size of different closures using lambdas.
 4. Benefits of uniform (braced `{}` )initialization over `=` and `()`, together with pitfalls of braced initialization.
+5. Show the benefits of using `nullptr` over `NULL` or `0`.

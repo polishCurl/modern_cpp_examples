@@ -6,5 +6,6 @@ SET(CMAKE_CXX_FLAGS_DEBUG "-g")
 
 add_subdirectory(CompilerPrintType)
 add_subdirectory(Lambda)
+add_subdirectory(Nullptr)
 add_subdirectory(TypeId)
 add_subdirectory(UniformInitialization)
