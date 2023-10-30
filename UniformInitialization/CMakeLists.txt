@@ -1,0 +1,1 @@
+add_executable(uniform_initialization uniform_initialization.cpp)
