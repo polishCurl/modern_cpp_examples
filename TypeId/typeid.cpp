@@ -24,4 +24,5 @@ int main() {
   Type t;
   std::cout << getTypeName(t) << '\n';
   std::cout << getTypeName(t.integer_) << '\n';
+  std::cout << getTypeName(nullptr) << '\n';
 }
