@@ -9,3 +9,4 @@ This project also demonstrates minimal usage of cmake for building c++ projects.
 3. Compare the memory size of different closures using lambdas.
 4. Benefits of uniform (braced `{}` )initialization over `=` and `()`, together with pitfalls of braced initialization.
 5. Show the benefits of using `nullptr` over `NULL` or `0`.
+5. Invoking lambda as soon as it is defined for complex initialization of constant variables -- _Immediately Invoked Function Expression_ (IIFE)
