@@ -1,0 +1,1 @@
+add_executable(deleted_function deleted_function.cpp)

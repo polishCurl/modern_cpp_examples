@@ -5,6 +5,7 @@ set(CXX_STANDARD_REQUIRED ON)
 SET(CMAKE_CXX_FLAGS_DEBUG "-g")
 
 add_subdirectory(CompilerPrintType)
+add_subdirectory(DeletedFunction)
 add_subdirectory(EnumClass)
 add_subdirectory(ImmediatelyInvokedFunctionExpression)
 add_subdirectory(Lambda)

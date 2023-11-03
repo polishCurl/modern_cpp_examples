@@ -13,3 +13,4 @@ This project is heavily inspired by Scott Meyer's 'Effective Modern C++' book.
 5. Show the benefits of using `nullptr` over `NULL` or `0`.
 6. Invoking `lambda` as soon as it is defined for complex initialization of constant variables -- _Immediately Invoked Function Expression_ (IIFE)
 7. Show benefits of `enum class` over c++98's _unscoped enum_
+8. Using `delete`d functions to ban usage of member functions.
